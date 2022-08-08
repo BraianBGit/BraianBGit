@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=BraianBGit&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=BraianBGit&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BraianBGit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=BraianBGit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
