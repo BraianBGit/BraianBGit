@@ -1,4 +1,4 @@
-### Hi there 👋
+[<img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" alt="👋 Hi there! I'm (Braian)|https://raymond.li)" title="👋 Hi there! I'm (Brai(111|an Biale)|https://linkedin.com/in/braian-biale/)"/>](https://linkedin.com/in/braian-biale//)
 
 <!--
 **BraianBGit/BraianBGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
