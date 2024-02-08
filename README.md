@@ -1,20 +1,23 @@
-[<img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" alt="👋 Hi there! I'm (Braian)|https://raymond.li)" title="👋 Hi there! I'm (Brai(111|an Biale)|https://linkedin.com/in/braian-biale/)"/>](https://linkedin.com/in/braian-biale//)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<!--
-**BraianBGit/BraianBGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const braianb = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        backEnd: {
+            js: ["Flask"],
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["PostgreSQL", "MySql"],
+        misc: ["open-cv"]
+    },
+    architecture: ["Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "It’s all 0’s and 1’s"
+};
+```
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=BraianBGit&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=BraianBGit&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BraianBGit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=BraianBGit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
