@@ -24,15 +24,13 @@ const braianb = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2024
+> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,8 +42,8 @@ const braianb = {
 
 ```text
 🌞 Morning                266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-🌆 Daytime                1109 commits        █████████░░░░░░░░░░░░░░░░   35.12 % 
-🌃 Evening                1229 commits        ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌆 Daytime                1109 commits        █████████░░░░░░░░░░░░░░░░   35.11 % 
+🌃 Evening                1230 commits        ██████████░░░░░░░░░░░░░░░   38.94 % 
 🌙 Night                  554 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -54,8 +52,8 @@ const braianb = {
 Monday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 Tuesday                  561 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 Wednesday                519 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 588 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Friday                   526 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Thursday                 589 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Friday                   526 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 Saturday                 258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
@@ -67,16 +65,16 @@ Sunday                   333 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Cordoba
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pythonProject            18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +94,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 20:44:44 UTC
+ Last Updated on 09/02/2024 18:40:01 UTC
 <!--END_SECTION:waka-->
