@@ -24,13 +24,13 @@ const braianb = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 kB Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +94,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 18:40:01 UTC
+ Last Updated on 10/02/2024 18:40:15 UTC
 <!--END_SECTION:waka-->
