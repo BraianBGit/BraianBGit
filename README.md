@@ -24,7 +24,7 @@ const braianb = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
@@ -99,5 +99,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2024 18:40:38 UTC
+ Last Updated on 13/02/2024 19:19:11 UTC
 <!--END_SECTION:waka-->
