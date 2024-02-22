@@ -67,17 +67,16 @@ Sunday                   333 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Cordoba
 
 💬 Programming Languages: 
-TypeScript               29 mins             ████████████████████████░   94.31 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-braianbiale-portfolio    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +96,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:39:55 UTC
+ Last Updated on 22/02/2024 18:39:49 UTC
 <!--END_SECTION:waka-->
