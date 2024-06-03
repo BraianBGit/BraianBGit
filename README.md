@@ -32,8 +32,6 @@ const braianb = {
 
 > 📦 3.9 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -96,5 +94,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:40:52 UTC
+ Last Updated on 03/06/2024 18:43:11 UTC
 <!--END_SECTION:waka-->
