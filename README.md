@@ -32,8 +32,6 @@ const braianb = {
 
 > 📦 4.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -96,5 +94,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2025 18:50:10 UTC
+ Last Updated on 03/09/2025 18:49:49 UTC
 <!--END_SECTION:waka-->
