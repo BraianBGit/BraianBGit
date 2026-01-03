@@ -38,45 +38,6 @@ const braianb = {
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-🌆 Daytime                1116 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
-🌃 Evening                1234 commits        ██████████░░░░░░░░░░░░░░░   38.92 % 
-🌙 Night                  555 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Tuesday                  565 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Wednesday                522 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 589 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Friday                   530 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Saturday                 259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Cordoba
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -94,5 +55,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BraianBGit/BraianBGit/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:56:17 UTC
+ Last Updated on 03/01/2026 18:54:53 UTC
 <!--END_SECTION:waka-->
